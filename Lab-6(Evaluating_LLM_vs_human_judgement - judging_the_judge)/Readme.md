@@ -1,10 +1,5 @@
 # Evaluating LLM Judge Responses Against Human Evaluation
 
-In the previous two labs, we explored different approaches to evaluation:
-
-- **Lab 1:** Utilized predefined evaluators provided by Azure to assess responses.
-- **Lab 2:** Developed a custom judge using a Large Language Model (LLM) to perform evaluations.
-
 In this lab, we aim to compare the effectiveness of LLM-based evaluation with human evaluation. The goal is to determine whether LLMs can provide judgments that are as reliable or insightful as those made by humans, and to analyze the strengths and limitations of each approach.
 
 ---
@@ -14,7 +9,7 @@ In this lab, we aim to compare the effectiveness of LLM-based evaluation with hu
 To compare the effectiveness of LLM-based evaluation with human evaluation, we follow these steps:
 
 1. **Obtain LLM Evaluation Results:**
-   - From Lab 2, after running your LLM judge, you download the evaluation results as a CSV file.
+   - **From Lab 1, after running your LLM judge, you download the evaluation results as a CSV file.**
 2. **Obtain Human Evaluation Results:**
    - You have a separate CSV file containing results that have already been evaluated by a human. You can access the human evaluation sheet [here](https://drive.google.com/file/d/1jaiun8mi6OMHYnlCdWIcHvSgU-s-ZBOR/view?usp=sharing).
 3. **Comparison Process:**
