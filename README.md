@@ -1,5 +1,5 @@
 # Hands-On AI: Introduction to AI Evaluations
-This is the repository for the LinkedIn Learning course `Hands-On AI: Introduction to AI Evaluations`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course `Hands-On AI: Introduction to AI Evaluations`. The full course is available on [LinkedIn Learning](https://www.linkedin.com/learning/).
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
