@@ -1,5 +1,5 @@
 # Hands-On AI: Introduction to AI Evaluations
-This is the repository for the LinkedIn Learning course `Hands-On AI: Introduction to AI Evaluations`. The full course is available from ![LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course `Hands-On AI: Introduction to AI Evaluations`.  The full course is available on [LinkedIn Learning](https://www.linkedin.com/learning/).
 
 ![hands-on-ai-introduction-to-ai-evaluations](assets/images/readme-banner.png)
 AI evaluation refers to the process of assessing the performance, accuracy, and reliability of AI models designed to generate content, such as text, images, music, or videos. Model evaluation metrics are crucial for assessing AI models to ensure they meet the desired objectives.  
